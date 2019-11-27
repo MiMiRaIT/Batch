@@ -1,6 +1,5 @@
 @echo off
 setlocal EnableDelayedExpansion
-setlocal
 
 set path=C:\Users\%username%\Desktop\backups\
 if not exist %path% (
