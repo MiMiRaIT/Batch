@@ -1,0 +1,13 @@
+public;everyone:m;public
+abt;;
+abt\kunden;geschaeftsfuehrung:m?administration:m?frontoffice:m?backoffice:m?foodbeverage:m?convention:m?housekeeping:r?technik:m;
+abt\buchhaltung;geschaeftsfuehrung:r?administration:m;
+room;;
+room\kunden;;
+room\kunden\saal;geschaeftsfuehrung:m?administration:m?frontoffice:m?backoffice:m?convention:m?technik:m;saal
+room\kunden\bar;geschaeftsfuehrung:r?administration:m?frontoffice:m?backoffice:m?foodbeverage:m?convention:m?technik:m;bar
+room\kunden\gastraum;geschaeftsfuehrung:r?administration:m?frontoffice:m?backoffice:m?foodbeverage:m?convention:r?technik:m;gastraum
+room\kunden\suiten;geschaeftsfuehrung:r?administration:m?frontoffice:m?backoffice:m?technik:m;suiten
+room\kunden\sizi;geschaeftsfuehrung:m?administration:m?frontoffice:r?backoffice:m?convention:m?technik:m;sizi
+room\kunden\bueros;geschaeftsfuehrung:m?administration:m?frontoffice:m?backoffice:m?convention:m?technik:m;buero
+users;;
